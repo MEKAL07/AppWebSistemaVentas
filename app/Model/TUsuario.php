@@ -5,10 +5,10 @@ use Illuminate\Database\Eloquent\Model;
 /**
 * https://MEKAL0702@gitlab.com/JainorMontesRetamozo/AppWebSistemaVentas.git
 */
-class TCliente extends Model
+class TUsuario extends Model
 {
-	protected $table='tcliente'	;
-	protected $primarykey='dniCliente';
+	protected $table='tusuario'	;
+	protected $primarykey='dniUsuario';
 	public $incrementing=false;
 	public $timestamps=false;
 
