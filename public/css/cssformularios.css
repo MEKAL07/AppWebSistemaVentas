@@ -1,0 +1,68 @@
+.divForm{
+	background-color: #b6cbcc;
+	
+	margin-top: 10px;
+	border-radius: 7px;
+	width: 600px;
+	display: inline-block;
+}
+.divFormVer{
+	background-color: #b6cbcc;	
+	margin-top: 30px;
+	border-radius: 7px;
+	width: 850px;
+	display: inline-block;
+}
+
+
+.formulario{
+  	background-color: #85a8ab;
+	margin:10px;
+	padding: 15px;		
+	border-radius: 7px;
+	width: 400px;
+	display: inline-block;
+}
+.tm{
+	width: 300px;
+	height: 30px;
+	border-radius : 5px;
+}
+#obli{
+	color: red;
+}
+/*pppppppppp botones de CRUD PPPPPPPPPPPPPPPPPPPP*/
+.btnRegistrar{
+	background-color: #004b49;
+	width: auto;
+	height: 35px;
+	border-radius : 7px;
+	color: white;
+	text-align: center;
+}
+#btnAgregar{
+	background-color: #004b49;
+	width: 100px;
+	height: 35px;
+	border-radius : 7px;
+	color: white;
+	text-align: center;
+}
+#btnEliminar{
+	background-color: red;
+	width: 100px;
+	height: 35px;
+	border-radius : 7px;
+	color: white;
+	text-align: center;
+	display: inline-table;
+}
+#btnEditar{
+	background-color: blue;
+	width: 100px;
+	height: 35px;
+	border-radius : 7px;
+	color: white;
+	text-align: center;
+	display: inline-table;
+}
